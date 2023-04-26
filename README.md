@@ -18,3 +18,5 @@
 •	Accuracy Score
 
 •	Confusion matrix 
+
+•  Prediction

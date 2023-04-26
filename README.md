@@ -1,6 +1,7 @@
 # Weather-Predictor
 ## Steps Followed: 
 •	Collecting Data (CSV File)
+
 •	Preparing the Data
    1.	Checking and filling Null values
    2.	Converting String values into numeric values
